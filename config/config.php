@@ -1,0 +1,9 @@
+<?php
+
+return array(
+    'MASTER_DATA_VERSION'=>3,
+    'CRYSTAL_DEFAULT'=>0,
+    'CRYSTAL_FREE_DEFAULT'=>0,
+    'FRIEND_COIN_DEFAULT'=>0,
+    'TUTORIAL_START'=>0,
+);
